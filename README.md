@@ -1,5 +1,5 @@
 # CSRF Proof of Concept
-These sources are intented to be a proof of concept to avoid CSRF attacks inside the WDW and DLR composite apps.
+These sources are intented to be a proof of concept to avoid CSRF attacks within an app based on Spring MVC.
 
 ## Prerequisites to test in your local.
 If you want to test this example, you should have the following in your local machine:
